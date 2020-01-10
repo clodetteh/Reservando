@@ -135,3 +135,4 @@ var listadoDeRestaurantes = [
 
 //Se crea un nuevo listado, asignandole el listado de restaurantes creado anteriormente.
 var listado = new Listado(listadoDeRestaurantes)
+
